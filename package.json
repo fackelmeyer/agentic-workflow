@@ -9,6 +9,6 @@
     "node": ">=20"
   },
   "scripts": {
-    "test": "node --test 'tests/*.test.mjs'"
+    "test": "node --test tests/rules.test.mjs tests/guard.test.mjs"
   }
 }
