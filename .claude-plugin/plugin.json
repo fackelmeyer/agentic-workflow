@@ -1,0 +1,15 @@
+{
+  "name": "agentic-workflow",
+  "displayName": "Agentic Workflow",
+  "version": "0.1.0",
+  "description": "Guardrails that enforce my agent rules (no bypassed checks, no secrets, approval for dependencies, lockfiles, CI, deletions and pushes) plus a Codex delegation agent.",
+  "author": {
+    "name": "Jonas Fackelmeyer",
+    "email": "jonas@fackelmeyer.com",
+    "url": "https://fackelmeyer.com"
+  },
+  "homepage": "https://github.com/fackelmeyer/agentic-workflow",
+  "repository": "https://github.com/fackelmeyer/agentic-workflow",
+  "license": "MIT",
+  "keywords": ["guardrails", "hooks", "agentic-development", "codex", "workflow"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "fackelmeyer",
+  "description": "Jonas Fackelmeyer's Claude Code plugins.",
+  "owner": {
+    "name": "Jonas Fackelmeyer",
+    "url": "https://fackelmeyer.com"
+  },
+  "plugins": [
+    {
+      "name": "agentic-workflow",
+      "source": "./",
+      "description": "Guardrails that enforce my agent rules, plus a Codex delegation agent.",
+      "category": "workflow",
+      "tags": ["guardrails", "hooks", "codex"]
+    }
+  ]
+}
